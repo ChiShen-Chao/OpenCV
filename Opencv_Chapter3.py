@@ -3,7 +3,7 @@
 import cv2
 import numpy
 
-img = cv2.imread("123.jpg")
+img = cv2.imread(".jpg")
 print(img.shape)
 # ("height", "width", "channels(BGR)")
 

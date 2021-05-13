@@ -50,7 +50,7 @@ cv2.createTrackbar("Val Min", "TrackBars", 0, 255, empty)
 cv2.createTrackbar("Val Max", "TrackBars", 255, 255, empty)
 
 # show the original image and also transfer it to the HSV 
-img = cv2.imread("test.jpg")
+img = cv2.imread(".jpg")
 imgHSV = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
 
 # let it track the position of the trackbar value realtime(while loop)

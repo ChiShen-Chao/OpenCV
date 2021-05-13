@@ -1,3 +1,2 @@
 # This is the note of basic OpevCV   
-Before we start, it's necessarry to install the Opencv first.  
-There are nine basic practice code about using Opencv.
+Before we start, it's necessarry to install the Opencv first. There are nine basic practice code about using Opencv. Don't forget to change the path or the file name especially ".jpg" or ".png"

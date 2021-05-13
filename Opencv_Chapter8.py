@@ -82,7 +82,7 @@ def getContours(img):
                         0.7, (0, 0, 0), 2)
 
 
-img = cv2.imread("shapes.png")
+img = cv2.imread(".png")
 # create a copy of original image
 imgContour = img.copy()
 
